@@ -139,7 +139,7 @@
                     </div><br><br>
                 <div class="content m-b-md">
 
-                    Vente de peluche kawai!
+                    Vente de peluche kawai! (j'adore le judo)
 
                 </div>
 
